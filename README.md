@@ -1,5 +1,13 @@
 
-## Hackintosh NUC10i7(5)FNH(K) OpenCore
+## NUC10 Hackintosh OpenCore
+
+#### Adapted
+
+ - NUC10i5FNH
+ - NUC10i5FNK
+ - NUC10i7FNH
+ - NUC10i7FNK
+
 
 EFI from [Hackintosh-NUC10i7](https://github.com/HawkysCC/Hackintosh-NUC10i7)
 
@@ -8,7 +16,7 @@ Thanks to [@HawkysCC](https://github.com/HawkysCC)
 
 ### kexts update
 
-- [AirportItlwm.kext 1.2.0-alpha](https://github.com/OpenIntelWireless/itlwm)
+- [AirportItlwm.kext 1.2.0-c2f2c51](https://github.com/OpenIntelWireless/itlwm)
 - [AppleALC.kext 1.5.5](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
