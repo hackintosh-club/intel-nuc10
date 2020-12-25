@@ -14,6 +14,12 @@ EFI from [Hackintosh-NUC10i7](https://github.com/HawkysCC/Hackintosh-NUC10i7)
 Thanks to [@HawkysCC](https://github.com/HawkysCC)
 
 
+### Known issue
+
+- HDMI Audio not work.
+- Airdrop not work.
+
+
 ### kexts update
 
 - [AirportItlwm.kext 1.2.0-a8ae1f8](https://github.com/OpenIntelWireless/itlwm)
