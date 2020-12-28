@@ -22,7 +22,7 @@ Thanks to [@HawkysCC](https://github.com/HawkysCC)
 
 ### kexts update
 
-- [AirportItlwm.kext 1.2.0-a8ae1f8](https://github.com/OpenIntelWireless/itlwm)
+- [AirportItlwm.kext 1.2.0-eeebc4c](https://github.com/OpenIntelWireless/itlwm)
 - [AppleALC.kext 1.5.5](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
