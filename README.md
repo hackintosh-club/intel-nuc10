@@ -1,7 +1,9 @@
 
 ## Intel NUC10 Hackintosh OpenCore
 
-Intel NUC10 EFI
+Intel NUC10 OpenCore EFI
+
+[OpenCore 0.6.5](https://github.com/acidanthera/OpenCorePkg)
 
 
 #### Adapted
