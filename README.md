@@ -14,11 +14,6 @@ Intel NUC10 OpenCore EFI
  - NUC10i7FNK
 
 
-EFI from [Hackintosh-NUC10i7](https://github.com/HawkysCC/Hackintosh-NUC10i7)
-
-Thanks to [@HawkysCC](https://github.com/HawkysCC)
-
-
 ### Known issue
 
 - HDMI Audio not work(you can use VoodooHDA.kext as alternative).
