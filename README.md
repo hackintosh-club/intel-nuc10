@@ -18,6 +18,12 @@ Intel NUC10 OpenCore EFI
 
 - HDMI Audio not work(you can use VoodooHDA.kext as alternative).
 - Airdrop not work.
+- SD Card not work.
+
+#### HDMI Audio
+
+ - The default Audio drive use `AppleALC.kext` loaded by the file `/EFI/OC/config.plist`.
+ - If you want to use `VoodooHDA.kext`, just rename the file `/EFI/OC/config.VoodooHDA.plist` to `/EFI/OC/config.plist`.
 
 
 ### kexts update
@@ -26,10 +32,11 @@ Intel NUC10 OpenCore EFI
 - [AppleALC.kext 1.5.6](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [IntelMausi 1.0.5](https://github.com/acidanthera/IntelMausi)
+- [IntelMausi.kext 1.0.5](https://github.com/acidanthera/IntelMausi)
 - [Lilu.kext 1.5.0](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.1.9](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.1.9](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.1.9](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen 1.4.6](https://github.com/acidanthera/WhateverGreen)
+- [WhateverGreen.kext 1.4.6](https://github.com/acidanthera/WhateverGreen)
+- [VoodooHDA.kext 2.9.2](https://github.com/chris1111/VoodooHDA-OC) 
 
