@@ -14,8 +14,20 @@
 
 
 ### OS Version Tested
+
 - macOS Big Sur 11.1
 - macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
+
+
+### config.plist
+
+- `/EFI/OC/config.plist` Default boot with `AppleALC.kext`.
+- `/EFI/OC/config.VoodooHDA.plist` Default boot with `VoodooHDA.kext`(HDMI Audio works).
+- `/EFI/OC/config.UI.plist` UI boot with `AppleALC.kext`.
+- `/EFI/OC/config.UI.VoodooHDA.plist` UI boot with `VoodooHDA.kext`(HDMI Audio works).
+
+Choose one you prefer :)   
+**To display more boot items, print `Space` key.**
 
 
 ### Known issue
