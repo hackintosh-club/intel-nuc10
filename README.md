@@ -1,17 +1,21 @@
 
-## Intel NUC10 Hackintosh OpenCore
+## Intel NUC10 Hackintosh OpenCore EFI
 
-Intel NUC10 OpenCore EFI
+### OpenCore
 
 [OpenCore 0.6.5](https://github.com/acidanthera/OpenCorePkg)
 
 
-#### Adapted
+### Adapted
 
- - NUC10i5FNH
- - NUC10i5FNK
- - NUC10i7FNH
- - NUC10i7FNK
+- NUC10i7FNH/FNK
+- NUC10i5FNH/FNK
+- NUC10i3FNH/FNK
+
+
+### OS Version Tested
+- macOS Big Sur 11.1
+- macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
 
 
 ### Known issue
@@ -20,13 +24,14 @@ Intel NUC10 OpenCore EFI
 - Airdrop not work.
 - SD Card not work.
 
-#### HDMI Audio
 
- - The default Audio drive use `AppleALC.kext` loaded by the file `/EFI/OC/config.plist`.
- - If you want to use `VoodooHDA.kext`, just rename the file `/EFI/OC/config.VoodooHDA.plist` to `/EFI/OC/config.plist`.
+### HDMI Audio
+
+ - The default Audio drive is `AppleALC.kext` loaded by the file `/EFI/OC/config.plist`.
+ - If you want to use `VoodooHDA.kext`, just rename the file `/EFI/OC/config.VoodooHDA.plist` to `/EFI/OC/config.plist`. (Do not forget to replace the GMBIOS with your own.)
 
 
-### kexts update
+### Kexts
 
 - [AirportItlwm.kext v1.2.0](https://github.com/OpenIntelWireless/itlwm)
 - [AppleALC.kext 1.5.6](https://github.com/acidanthera/AppleALC)
@@ -40,3 +45,17 @@ Intel NUC10 OpenCore EFI
 - [WhateverGreen.kext 1.4.6](https://github.com/acidanthera/WhateverGreen)
 - [VoodooHDA.kext 2.9.2](https://github.com/chris1111/VoodooHDA-OC) 
 
+
+### Tools
+
+- [Hackintool](https://github.com/headkaze/Hackintool) 
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
+- [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partation.
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
+- [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
+
+
+### Credits
+
+Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
