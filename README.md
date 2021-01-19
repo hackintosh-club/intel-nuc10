@@ -27,7 +27,7 @@
 - `/EFI/OC/config.UI.VoodooHDA.plist` UI boot with `VoodooHDA.kext`(HDMI Audio works).
 
 Choose one you prefer :)   
-**To display more boot items, print `Space` key.**
+**Press the `space key` to display more boot options.**
 
 
 ### Known issue
