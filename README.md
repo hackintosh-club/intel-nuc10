@@ -19,6 +19,17 @@
 - macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
 
 
+### BIOS config
+
+- Advanced -> Storage -> SATA Mode Selection -> AHCI
+- Boot -> Secure Boot -> Secure Boot -> Disabled
+- Boot -> UEFI Boot -> Checked
+- Boot -> Legacy Boot -> Unchecked
+- Boot -> Fast Boot -> Unchecked
+
+keep other settings default.
+
+
 ### config.plist
 
 - `/EFI/OC/config.plist` Default boot with `AppleALC.kext`.
