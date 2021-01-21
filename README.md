@@ -22,10 +22,13 @@
 ### BIOS config
 
 - Advanced -> Storage -> SATA Mode Selection -> AHCI
+- Advanced -> Video -> IGD Minimum Memory -> 64MB
+- Advanced -> Video -> IGD Aperture Size -> 256MB
+- Advanced -> Video -> IGD Primary Video Port -> Auto
 - Boot -> Secure Boot -> Secure Boot -> Disabled
-- Boot -> UEFI Boot -> Checked
-- Boot -> Legacy Boot -> Unchecked
-- Boot -> Fast Boot -> Unchecked
+- Boot -> Boot Priority -> UEFI Boot -> Checked
+- Boot -> Boot Priority -> Legacy Boot -> Unchecked
+- Boot -> Boot Priority -> Fast Boot -> Unchecked
 
 keep other settings default.
 
