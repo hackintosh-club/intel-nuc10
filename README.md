@@ -37,11 +37,12 @@ keep other settings default.
 
 - `/EFI/OC/config.plist` Default boot with `AppleALC.kext`.
 - `/EFI/OC/config.VoodooHDA.plist` Default boot with `VoodooHDA.kext`(HDMI Audio works).
-- `/EFI/OC/config.UI.plist` UI boot with `AppleALC.kext`.
-- `/EFI/OC/config.UI.VoodooHDA.plist` UI boot with `VoodooHDA.kext`(HDMI Audio works).
+- `/EFI/OC/config.UI.plist` GUI boot with `AppleALC.kext`.
+- `/EFI/OC/config.UI.VoodooHDA.plist` GUI boot with `VoodooHDA.kext`(HDMI Audio works).
 
-Choose one you prefer :)   
-**Press the `space key` to display more boot options.**
+Choose one you prefer to :)   
+
+**When in the OC's booting interface, press the `space bar` to show more options**
 
 
 ### Known issue
@@ -82,6 +83,13 @@ Choose one you prefer :)
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
 
 
+### Discuss
+
+QQ Group: 591528332
+
+
 ### Credits
 
 Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
+
+
