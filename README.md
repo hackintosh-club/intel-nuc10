@@ -33,6 +33,16 @@
 keep other settings default.
 
 
+### CFG Unlock
+
+If it's the first time your nuc10 install with macOS, you must unlock CFG before install macOS.
+
+ 1. Find a USB flash drive, formatted as `FAT32` partition.
+ 2. Copy `EFI` files to the root of your USB drive, path will be `/EFI`.
+ 3. Reboot your nuc10, press `F10`, boot with the drive above. 
+ 4. Choose `CFGLock Shell.efi` unlock CFG. 
+
+
 ### config.plist
 
 - `/EFI/OC/config.plist` Default boot with `AppleALC.kext`.
