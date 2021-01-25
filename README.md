@@ -1,6 +1,8 @@
 
 ## Intel NUC10 Hackintosh OpenCore EFI
 
+### [简体中文](README.zh_CN.md)
+
 ### OpenCore
 
 [OpenCore 0.6.5](https://github.com/acidanthera/OpenCorePkg)
