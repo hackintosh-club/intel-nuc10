@@ -1,6 +1,8 @@
 
 ## Intel NUC10 Hackintosh OpenCore EFI
 
+[![Gitter](https://badges.gitter.im/hackintosh-efi/intel-nuc10.svg)](https://gitter.im/hackintosh-efi/intel-nuc10?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
