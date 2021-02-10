@@ -25,6 +25,8 @@
 
 ### BIOS config
 
+BIOS version **FNCML357.0047 (latest)**
+
 - Advanced -> Storage -> SATA Mode Selection -> AHCI
 - Advanced -> Video -> IGD Minimum Memory -> 64MB
 - Advanced -> Video -> IGD Aperture Size -> 256MB
