@@ -3,7 +3,7 @@
 
 ### OpenCore
 
-[OpenCore 0.6.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.6.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -73,15 +73,15 @@
 ### Kexts
 
 - [AirportItlwm.kext v1.2.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.5.7](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.5.8](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelMausi.kext 1.0.5](https://github.com/acidanthera/IntelMausi)
 - [Lilu.kext 1.5.1](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.2.0](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.0](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.0](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.4.7](https://github.com/acidanthera/WhateverGreen)
+- [SMCProcessor.kext 1.2.1](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.1](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.1](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext 1.4.8](https://github.com/acidanthera/WhateverGreen)
 - [VoodooHDA.kext 2.9.2](https://github.com/chris1111/VoodooHDA-OC) 
 
 
