@@ -27,14 +27,26 @@
 
 BIOS version **FNCML357.0047 (latest)**
 
-- Advanced -> Storage -> SATA Mode Selection -> AHCI
-- Advanced -> Video -> IGD Minimum Memory -> 64MB
-- Advanced -> Video -> IGD Aperture Size -> 256MB
-- Advanced -> Video -> IGD Primary Video Port -> Auto
-- Boot -> Secure Boot -> Secure Boot -> Disabled
-- Boot -> Boot Priority -> UEFI Boot -> Checked
-- Boot -> Boot Priority -> Legacy Boot -> Unchecked
-- Boot -> Boot Priority -> Fast Boot -> Unchecked
++ Advanced
+  - Storage
+    * SATA Mode Selection -> AHCI
+  - Video
+    * IGD Minimum Memory -> 64MB
+    * IGD Aperture Size -> 256MB
+    * IGD Primary Video Port -> Auto
++ Boot 
+  - Secure Boot
+    * Secure Boot -> Disabled
+  - Boot Priority
+    * UEFI Boot -> Checked
+    * Legacy Boot -> Unchecked
+    * Fast Boot -> Unchecked
++ Power
+  - Secondary Power Settings
+    * Deep S4/S5 -> Off
+    * Wake on Lan from S4/S5 -> Stay Off
+    * Wake System from S5 -> Off
+    * Wake From Thunderbolt Device -> Off
 
 keep other settings default.
 
