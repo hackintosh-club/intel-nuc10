@@ -25,7 +25,7 @@
 
 ### BIOS config
 
-BIOS version **FNCML357.0047 (latest)**
+BIOS version **FNCML357.0050 (latest)**
 
 + Advanced
   - Storage

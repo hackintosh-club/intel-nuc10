@@ -21,6 +21,8 @@
 
 ### BIOS 设置
 
+BIOS version **FNCML357.0050 (latest)**
+
 + Advanced
   - Storage
     * SATA Mode Selection -> AHCI
