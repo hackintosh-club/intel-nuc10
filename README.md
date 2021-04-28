@@ -89,7 +89,7 @@ Choose one you prefer to :)
 
 ### Kexts
 
-- [AirportItlwm.kext v1.2.0](https://github.com/OpenIntelWireless/itlwm)
+- [AirportItlwm.kext 1.3.0](https://github.com/OpenIntelWireless/itlwm)
 - [AppleALC.kext 1.5.9](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
