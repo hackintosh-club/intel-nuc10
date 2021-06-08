@@ -3,7 +3,7 @@
 
 ### OpenCore
 
-[OpenCore 0.6.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.0](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -15,7 +15,7 @@
 
 ### 可安装系统
 
-- macOS Big Sur 11.1
+- macOS Big Sur 11.4
 - macOS Catalina 10.15.7 (需替换wifi驱动 `AirportItlwm.kext` 为 Catalina 版本)
 
 
@@ -87,15 +87,15 @@ BIOS version **FNCML357.0050 (latest)**
 ### Kexts
 
 - [AirportItlwm.kext 1.3.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.6.0](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.6.1](https://github.com/acidanthera/AppleALC)
 - [IntelBluetoothFirmware.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 1.1.2](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelMausi.kext 1.0.6](https://github.com/acidanthera/IntelMausi)
 - [Lilu.kext 1.5.3](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.2.3](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.3](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.3](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.4.9](https://github.com/acidanthera/WhateverGreen)
+- [SMCProcessor.kext 1.2.4](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.4](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.4](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext 1.5.0](https://github.com/acidanthera/WhateverGreen)
 - [VoodooHDA.kext 2.9.2](https://github.com/chris1111/VoodooHDA-OC) 
 
 
