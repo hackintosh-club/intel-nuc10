@@ -59,29 +59,12 @@ BIOS version **FNCML357.0050 (latest)**
 注意：若在OC引导界面看不到 `CFGLock Shell.efi` ，按`空格键`即可显示。
 
 
-### config.plist
-
-1. `/EFI/OC/config.plist` 默认文本启动模式，声卡驱动为 `AppleALC.kext`，有些情况下 HDMI 音频不能正常工作。
-2. `/EFI/OC/config.AppleALC.plist` 同 `/EFI/OC/config.plist`。
-3. `/EFI/OC/config.VoodooHDA.plist` 默认文本启动模式，万能声卡驱动 `VoodooHDA.kext`(HDMI音频可以正常工作，内置麦克风也可以正常工作)。
-4. `/EFI/OC/config.GUI.AppleALC.plist` 图形界面启动模式，声卡驱动为 `AppleALC.kext`。
-5. `/EFI/OC/config.GUI.VoodooHDA.plist` 图形界面启动模式，万能声卡驱动 `VoodooHDA.kext`。
-
-选择你自己喜欢的启动方式，替换掉 `config.plist` 即可。   
 **在 OC 引导界面，按 `空格键` 可显示辅助功能**
 
 
 ### 已知问题
-
-- 默认 `AppleALC.kext` 驱动下，部分设备HDMI音频无效（可使用万能声卡驱动 `VoodooHDA.kext` 解决)。
+- 雷电3设备支持较不稳定。
 - Airdrop 无效。
-- SD卡插槽无效。
-
-
-### HDMI 音频
-
-- 默认音频驱动为 `AppleALC.kext` 在 `/EFI/OC/config.plist` 中开启。 
-- 如需使用万能声卡驱动 `VoodooHDA.kext`, 选择相应 plist 文件替换到 `/EFI/OC/config.plist` 即可。（别忘记替换三码）
 
 
 ### Kexts
@@ -117,15 +100,4 @@ QQ群: 591528332
 ### Credits
 
 Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
-
-
-### By me a beer
-
-![alipay](https://sn3301files.storage.live.com/y4motdhk_seImaIqjpenUPgmDei226yPQ5oylU0MjSq0izM6oM4IOIfUhfos1JRhtDsf3UmRcqNuJCGGV30byvRD19hW3hHkPRNs38D0XTnN0EriFrmKWjjPzj-gCJ-oSZ-9eY-0yIaFHyb2RzAzhza-lV2bfbr9WN-nbOId_FCLijghCsFpshvmq18PyJf7xWj?width=128&height=128&cropmode=none) 
-Alipay
-
-![wepay](https://sn3301files.storage.live.com/y4mfSVsBSWF0tZ_ieHI-ISXnGu5YYUC7AhfEpqF6TFDkkOamY3nLjdrYGQZ_ypY2UnHJ_PbbBmiJOLaQzX2mdlEYTrs8fublvjpM2uXiHmu0f0_DSjxcQS5pLNfHN6e6uvZEd_s5qgE0Et953Da767VI5HhlnvUlbyEq3f_DNd8gFNgDkDQDLIzZDmctsVB1DVo?width=128&height=128&cropmode=none) 
-Wechat Pay
-
-[Paypal](https://www.paypal.me/mrasong) 
 
