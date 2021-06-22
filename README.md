@@ -77,7 +77,7 @@ Choose one you prefer to :)
 ### Known issue
 
 - Thunderbolt 3 Support very buggy
-- Airdrop not work.
+- Continuity features not work(EXCEPT HandOff and Universal Clipboard).
 
 
 ### Kexts
