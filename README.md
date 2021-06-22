@@ -101,4 +101,4 @@ QQ Group: 591528332
 
 ### Credits
 
-Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
+Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)，and@mrasong‘s work to keep updating this
