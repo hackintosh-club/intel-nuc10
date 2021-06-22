@@ -60,17 +60,6 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 3. Reboot your nuc10, press `F10`, boot with the drive above. 
 4. Choose `CFGLock Shell.efi` unlock CFG. 
 
-
-### config.plist
-
-1. `/EFI/OC/config.plist` Default boot with `AppleALC.kext`.
-2. `/EFI/OC/config.AppleALC.plist` same as `/EFI/OC/config.plist`.
-3. `/EFI/OC/config.VoodooHDA.plist` Default boot with `VoodooHDA.kext`(HDMI Audio works).
-4. `/EFI/OC/config.GUI.AppleALC.plist` GUI boot with `AppleALC.kext`.
-5. `/EFI/OC/config.GUI.VoodooHDA.plist` GUI boot with `VoodooHDA.kext`(HDMI Audio works).
-
-Choose one you prefer to :)   
-
 **When in the OC's booting interface, press the `space bar` to show more options**
 
 
