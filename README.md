@@ -76,15 +76,8 @@ Choose one you prefer to :)
 
 ### Known issue
 
-- HDMI Audio not work(you can use VoodooHDA.kext as alternative).
+- Thunderbolt 3 Support very buggy
 - Airdrop not work.
-- SD Card not work.
-
-
-### HDMI Audio
-
-- The default Audio drive is `AppleALC.kext` loaded by the file `/EFI/OC/config.plist`.
-- If you want to use `VoodooHDA.kext`, just rename the file `/EFI/OC/config.VoodooHDA.plist` to `/EFI/OC/config.plist`. (Do not forget to replace the GMBIOS with your own.)
 
 
 ### Kexts
@@ -120,15 +113,3 @@ QQ Group: 591528332
 ### Credits
 
 Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
-
-
-### By me a beer
-
-![alipay](https://sn3301files.storage.live.com/y4motdhk_seImaIqjpenUPgmDei226yPQ5oylU0MjSq0izM6oM4IOIfUhfos1JRhtDsf3UmRcqNuJCGGV30byvRD19hW3hHkPRNs38D0XTnN0EriFrmKWjjPzj-gCJ-oSZ-9eY-0yIaFHyb2RzAzhza-lV2bfbr9WN-nbOId_FCLijghCsFpshvmq18PyJf7xWj?width=128&height=128&cropmode=none) 
-Alipay
-
-![wepay](https://sn3301files.storage.live.com/y4mfSVsBSWF0tZ_ieHI-ISXnGu5YYUC7AhfEpqF6TFDkkOamY3nLjdrYGQZ_ypY2UnHJ_PbbBmiJOLaQzX2mdlEYTrs8fublvjpM2uXiHmu0f0_DSjxcQS5pLNfHN6e6uvZEd_s5qgE0Et953Da767VI5HhlnvUlbyEq3f_DNd8gFNgDkDQDLIzZDmctsVB1DVo?width=128&height=128&cropmode=none) 
-Wechat Pay
-
-[Paypal](https://www.paypal.me/mrasong) 
-
