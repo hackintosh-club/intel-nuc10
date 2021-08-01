@@ -19,7 +19,9 @@
 
 ### OS Version Tested
 
-- macOS Big Sur 11.4
+- macOS Big Sur
+  * 11.4
+  * 11.5
 - macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
 
 

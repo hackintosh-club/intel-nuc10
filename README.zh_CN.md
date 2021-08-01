@@ -15,7 +15,9 @@
 
 ### 可安装系统
 
-- macOS Big Sur 11.4
+- macOS Big Sur
+  * 11.4
+  * 11.5
 - macOS Catalina 10.15.7 (需替换wifi驱动 `AirportItlwm.kext` 为 Catalina 版本)
 
 
