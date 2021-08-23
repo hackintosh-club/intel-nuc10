@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.7.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -19,8 +19,8 @@
 
 ### OS Version Tested
 
-- macOS Big Sur 11.4
-- macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
+- macOS Big Sur 11.x
+- macOS Catalina 10.x (Need to replace `AirportItlwm.kext` to Catalina version)
 
 
 ### BIOS config
@@ -71,20 +71,21 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ### Kexts
 
-- [AirportItlwm.kext 1.3.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.6.2](https://github.com/acidanthera/AppleALC)
-- [IntelBluetoothFirmware.kext 1.1.3](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [IntelBluetoothInjector.kext 1.1.3](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [AirportItlwm.kext 2.0.0](https://github.com/OpenIntelWireless/itlwm)
+- [AppleALC.kext 1.6.3](https://github.com/acidanthera/AppleALC)
+- [IntelBluetoothFirmware.kext 2.0.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [IntelBluetoothInjector.kext 2.0.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [Lilu.kext 1.5.3](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.2.5](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.5](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.5](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.5.1](https://github.com/acidanthera/WhateverGreen)
+- [Lilu.kext 1.5.5](https://github.com/acidanthera/Lilu)
+- [SMCProcessor.kext 1.2.6](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.6](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.6](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext 1.5.2](https://github.com/acidanthera/WhateverGreen)
 - [VoodooHDA.kext 2.9.2](https://github.com/chris1111/VoodooHDA-OC) 
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [FakePCIID_Intel_HDMI_Audio.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
+
 
 ### Tools
 
