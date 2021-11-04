@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.7.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.5](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -19,6 +19,7 @@
 
 ### OS Version Tested
 
+- macOS Monterey 12.x (Need to replace `AirportItlwm.kext` to Monterey version)
 - macOS Big Sur 11.6.x
 - macOS Catalina 10.15.x (Need to replace `AirportItlwm.kext` to Catalina version)
 
@@ -72,18 +73,18 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 ### Kexts
 
 - [AirportItlwm.kext 2.0.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.6.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.6.6](https://github.com/acidanthera/AppleALC)
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [FakePCIID_Intel_HDMI_Audio.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [IntelBluetoothFirmware.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
-- [Lilu.kext 1.5.6](https://github.com/acidanthera/Lilu)
+- [Lilu.kext 1.5.7](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.5.4](https://github.com/acidanthera/WhateverGreen)
+- [WhateverGreen.kext 1.5.5](https://github.com/acidanthera/WhateverGreen)
+- [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
 
 ### Tools
 
