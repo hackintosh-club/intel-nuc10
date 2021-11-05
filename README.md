@@ -78,6 +78,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [FakePCIID_Intel_HDMI_Audio.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [IntelBluetoothFirmware.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [Lilu.kext 1.5.7](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
