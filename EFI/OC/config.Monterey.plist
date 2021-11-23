@@ -177,13 +177,6 @@
 				<key>model</key>
 				<string>Thunderbolt 3 NHI</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>device-id</key>
-				<data>cJ0AAA==</data>
-				<key>layout-id</key>
-				<integer>23</integer>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1D,0x5)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>compatible</key>
@@ -468,7 +461,38 @@
 		<key>Force</key>
 		<array/>
 		<key>Patch</key>
-		<array/>
+		<array>
+			<dict>
+			    <key>Arch</key>
+			    <string>Any</string>
+			    <key>Base</key>
+			    <string></string>
+			    <key>Comment</key>
+			    <string>HDMI&amp;DP_Audio</string>
+			    <key>Count</key>
+			    <integer>0</integer>
+			    <key>Enabled</key>
+			    <true/>
+			    <key>Find</key>
+			    <data>DgAAuHCdAADrBpA=</data>
+			    <key>Identifier</key>
+			    <string>as.vit9696.AppleALC</string>
+			    <key>Limit</key>
+			    <integer>0</integer>
+			    <key>Mask</key>
+			    <data></data>
+			    <key>MaxKernel</key>
+			    <string></string>
+			    <key>MinKernel</key>
+			    <string></string>
+			    <key>Replace</key>
+			    <data>DgAAuEijAADrBpA=</data>
+			    <key>ReplaceMask</key>
+			    <data></data>
+			    <key>Skip</key>
+			    <integer>0</integer>
+			</dict>
+        </array>
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
