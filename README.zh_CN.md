@@ -3,7 +3,7 @@
 
 ### OpenCore
 
-[OpenCore 0.7.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -15,9 +15,9 @@
 
 ### 可安装系统
 
-- macOS Monterey 12.x (需替换wifi驱动 `AirportItlwm.kext` 为 Monterey 版本)
-- macOS Big Sur 11.6.x
-- macOS Catalina 10.15.x (需替换wifi驱动 `AirportItlwm.kext` 为 Catalina 版本)
+- macOS Monterey 12.x (默认 `config.plist`)
+- macOS Big Sur 11.6.x (替换 `config.plist` 为 `config.BigSur.plist`)
+- macOS Catalina 10.15.x (替换 `config.plist` 为 `config.BigSur.plist`)
 
 
 ### BIOS 设置
@@ -71,17 +71,17 @@ BIOS version **FNCML357.0053 (latest)**
 ### Kexts
 
 - [AirportItlwm.kext 2.0.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.6.6](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.6.7](https://github.com/acidanthera/AppleALC)
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [FakePCIID_Intel_HDMI_Audio.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [IntelBluetoothFirmware.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [Lilu.kext 1.5.7](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
+- [Lilu.kext 1.5.8](https://github.com/acidanthera/Lilu)
+- [SMCProcessor.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.5.5](https://github.com/acidanthera/WhateverGreen)
 - [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
 

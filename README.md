@@ -1,13 +1,11 @@
 
 ## Intel NUC10 Hackintosh OpenCore EFI
 
-[![Gitter](https://badges.gitter.im/hackintosh-efi/intel-nuc10.svg)](https://gitter.im/hackintosh-efi/intel-nuc10?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
 
-[OpenCore 0.7.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -19,9 +17,9 @@
 
 ### OS Version Tested
 
-- macOS Monterey 12.x (Need to replace `AirportItlwm.kext` to Monterey version)
-- macOS Big Sur 11.6.x
-- macOS Catalina 10.15.x (Need to replace `AirportItlwm.kext` to Catalina version)
+- macOS Monterey 12.x (Default `config.plist`)
+- macOS Big Sur 11.6.x (Replace `config.plist` with `config.BigSur.plist`)
+- macOS Catalina 10.15.x (Replace `config.plist` with `config.BigSur.plist`)
 
 
 ### BIOS config
@@ -73,17 +71,17 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 ### Kexts
 
 - [AirportItlwm.kext 2.0.0](https://github.com/OpenIntelWireless/itlwm)
-- [AppleALC.kext 1.6.6](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.6.7](https://github.com/acidanthera/AppleALC)
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [FakePCIID_Intel_HDMI_Audio.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [IntelBluetoothFirmware.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.0.1](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [Lilu.kext 1.5.7](https://github.com/acidanthera/Lilu)
-- [SMCProcessor.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.7](https://github.com/acidanthera/VirtualSMC)
+- [Lilu.kext 1.5.8](https://github.com/acidanthera/Lilu)
+- [SMCProcessor.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.5.5](https://github.com/acidanthera/WhateverGreen)
 - [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
 
