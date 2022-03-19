@@ -3,7 +3,7 @@
 
 ### OpenCore
 
-[OpenCore 0.7.8](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.7.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -71,11 +71,11 @@ BIOS version **FNCML357.0055 (latest)**
 ### Kexts
 
 - [Lilu.kext 1.6.0](https://github.com/acidanthera/Lilu)
-- [WhateverGreen.kext 1.5.7](https://github.com/acidanthera/WhateverGreen)
-- [SMCProcessor.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
-- [SMCSuperIO.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
-- [VirtualSMC.kext 1.2.8](https://github.com/acidanthera/VirtualSMC)
-- [AppleALC.kext 1.6.9](https://github.com/acidanthera/AppleALC)
+- [WhateverGreen.kext 1.5.8](https://github.com/acidanthera/WhateverGreen)
+- [SMCProcessor.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
+- [VirtualSMC.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
+- [AppleALC.kext 1.7.0](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
 - [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
