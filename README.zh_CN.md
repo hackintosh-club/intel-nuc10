@@ -22,7 +22,9 @@
 
 ### BIOS 设置
 
-BIOS version **FNCML357.0055 (latest)**
+**最新版本 0056 升级后会导致 CFGLock.efi 失效, 请勿更新!!!**
+
+BIOS version **FNCML357.0055**
 
 + Advanced
   - Storage
