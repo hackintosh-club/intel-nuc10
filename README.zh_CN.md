@@ -93,6 +93,7 @@ BIOS version **FNCML357.0055**
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
 - [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。
+- [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
 

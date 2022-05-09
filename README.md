@@ -93,6 +93,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
 - [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partation.
+- [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI mount App.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
 
