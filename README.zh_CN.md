@@ -1,9 +1,11 @@
 
 ## Intel NUC10 黑苹果 OpenCore EFI
 
+### [English](README.md)
+
 ### OpenCore
 
-[OpenCore 0.8.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -73,14 +75,14 @@ BIOS version **FNCML357.0055**
 ### Kexts
 
 - [Lilu.kext 1.6.0](https://github.com/acidanthera/Lilu)
-- [WhateverGreen.kext 1.5.8](https://github.com/acidanthera/WhateverGreen)
+- [WhateverGreen.kext 1.5.9](https://github.com/acidanthera/WhateverGreen)
 - [SMCProcessor.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
-- [AppleALC.kext 1.7.1](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.2](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
-- [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
+- [BlueToolFixup.kext 2.6.2](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelBluetoothFirmware.kext 2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
@@ -106,4 +108,3 @@ QQ群: 591528332
 ### Credits
 
 Thanks to [HawkysCC](https://github.com/HawkysCC) and his [EFI](https://github.com/HawkysCC/Hackintosh-NUC10i7)
-

@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -73,14 +73,14 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 ### Kexts
 
 - [Lilu.kext 1.6.0](https://github.com/acidanthera/Lilu)
-- [WhateverGreen.kext 1.5.8](https://github.com/acidanthera/WhateverGreen)
+- [WhateverGreen.kext 1.5.9](https://github.com/acidanthera/WhateverGreen)
 - [SMCProcessor.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.2.9](https://github.com/acidanthera/VirtualSMC)
-- [AppleALC.kext 1.7.1](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.2](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
-- [BlueToolFixup.kext 2.6.1](https://github.com/acidanthera/BrcmPatchRAM)
+- [BlueToolFixup.kext 2.6.2](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelBluetoothFirmware.kext 2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [FakePCIID.kext 1.3.15](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
