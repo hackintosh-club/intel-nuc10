@@ -24,9 +24,15 @@
 
 ### BIOS 设置
 
-**最新版本（0055以后）升级后会导致 CFGLock.efi 失效, 请勿更新!!!**
+**最新版本（0055以后）升级后会导致 `CFGLock.efi` 失效!!!** 
 
-BIOS version **FNCML357.0055**
+**怎样升级到最新版本 `0057`** 
+1. 在0055版本上解锁 `CFGLock`, 保证 `CFG Lock` 值为 `0`
+2. 升级BIOS至最新版本 `0057`
+3. 进入 `CFGLock` , 查看 `CFG Lock` 值是否为 `0`, 为 `0` 则可以正常使用.
+
+
+BIOS version **FNCML357.0057(CFG Unlocked under 0055)**
 
 + Advanced
   - Storage

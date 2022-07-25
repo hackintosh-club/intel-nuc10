@@ -24,9 +24,14 @@
 
 ### BIOS config
 
-**The newest version (after 0056) will make CFGLock.efi unable to work, DO NOT UPDATE!!!**
+**The latest version (after 0055) will make CFGLock.efi unable to work!!!**
 
-BIOS version **FNCML357.0055**
+**How to update BIOS to the latest version `0057` ?** 
+1. Unlock CFG with `CFGLock` tool under BIOS `0055`, make sure the value of `CFG Lock` is `0`
+2. Update BIOS to the latest verion `0057`
+3. Enter `CFGLock`, Check whether the `CFG Lock` value is `0`, if it is, then you made it.
+
+BIOS version **FNCML357.0057(CFG Unlocked under 0055)**
 
 + Advanced
   - Storage
