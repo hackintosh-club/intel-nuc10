@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.3](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -77,12 +77,12 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ### Kexts
 
-- [Lilu.kext 1.6.1](https://github.com/acidanthera/Lilu)
-- [WhateverGreen.kext 1.6.0](https://github.com/acidanthera/WhateverGreen)
+- [Lilu.kext 1.6.2](https://github.com/acidanthera/Lilu)
+- [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [AppleALC.kext 1.7.3](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.4](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
 - [BlueToolFixup.kext 2.6.3](https://github.com/acidanthera/BrcmPatchRAM)
