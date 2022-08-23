@@ -88,6 +88,7 @@ BIOS version **FNCML357.0057(CFG Unlocked under 0055)**
 - [AppleALC.kext 1.7.4](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
+- [BlueToolFixup.kext 2.6.3](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothFirmware.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
