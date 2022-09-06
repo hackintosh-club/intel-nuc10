@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.3](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -26,12 +26,12 @@
 
 **The latest version (after 0055) will make CFGLock.efi unable to work!!!**
 
-**How to update BIOS to the latest version `0057` ?** 
+**How to update BIOS to the latest version `0058` ?** 
 1. Unlock CFG with `CFGLock` tool under BIOS `0055`, make sure the value of `CFG Lock` is `0`
-2. Update BIOS to the latest verion `0057`
+2. Update BIOS to the latest verion `0058`
 3. Enter `CFGLock`, Check whether the `CFG Lock` value is `0`, if it is, then you made it.
 
-BIOS version **FNCML357.0057(CFG Unlocked under 0055)**
+BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
 
 + Advanced
   - Storage
@@ -82,7 +82,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [AppleALC.kext 1.7.4](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
 - [BlueToolFixup.kext 2.6.3](https://github.com/acidanthera/BrcmPatchRAM)
