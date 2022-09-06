@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18A391</string>
+	<string>20D91</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.rehabman.injector.FakePCIID-Intel-HDMI-Audio</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -13,27 +13,29 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3.15</string>
+	<string>1.3.16</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.3.15</string>
+	<string>1.3.16</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9F2000</string>
+	<string>12E262</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>11.3</string>
 	<key>DTSDKBuild</key>
-	<string>10M2518</string>
+	<string>20E214</string>
 	<key>DTSDKName</key>
-	<string>macosx10.6</string>
+	<string>macosx11.3</string>
 	<key>DTXcode</key>
-	<string>0941</string>
+	<string>1250</string>
 	<key>DTXcodeBuild</key>
-	<string>9F2000</string>
+	<string>12E262</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>Intel HDMI Audio - 100-series 0x9d74 0x9d71 0x9d70 0xa171</key>
@@ -116,6 +118,26 @@
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
 		</dict>
+		<key>Intel HDMI Audio - 400-series 0xa3f0 0xa36d</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>org.rehabman.driver.FakePCIID</string>
+			<key>FakeProperties</key>
+			<dict>
+				<key>RM,device-id</key>
+				<data>
+				SKMAAA==
+				</data>
+			</dict>
+			<key>IOClass</key>
+			<string>FakePCIID</string>
+			<key>IOMatchCategory</key>
+			<string>FakePCIID</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0xA3F08086 0xA36D8086</string>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+		</dict>
 		<key>Intel HDMI Audio - Haswell</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -137,9 +159,11 @@
 			<string>IOPCIDevice</string>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.3</string>
 	<key>OSBundleRequired</key>
 	<string>Root</string>
 	<key>Source Code</key>
-	<string>https://github.com/RehabMan/FakePCIID</string>
+	<string>https://github.com/daliansky/OS-X-Fake-PCI-ID</string>
 </dict>
 </plist>
