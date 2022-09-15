@@ -78,10 +78,10 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 ### Kexts
 
 - [Lilu.kext 1.6.2](https://github.com/acidanthera/Lilu)
-- [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
@@ -89,9 +89,6 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothFirmware.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [FakePCIID.kext 1.3.16](https://github.com/daliansky/OS-X-Fake-PCI-ID)
-- [FakePCIID_Intel_HDMI_Audio.kext 1.3.16](https://github.com/daliansky/OS-X-Fake-PCI-ID)
-- [IOElectrify.kext 1.0.0](https://github.com/the-darkvoid/macOS-IOElectrify)
 
 ### Tools
 
