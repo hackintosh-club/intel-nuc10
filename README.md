@@ -84,6 +84,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
+- [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
 - [BlueToolFixup.kext 2.6.4](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
