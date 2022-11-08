@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -17,7 +17,8 @@
 
 ### 可安装系统
 
-- macOS Monterey 12.x (Default `config.plist`)
+- macOS Ventura 13.x (Default `config.plist`)
+- macOS Monterey 12.x (Replace `config.plist` with `config.Monterey.plist`)
 - macOS Big Sur 11.6.x (Replace `config.plist` with `config.BigSur.plist`)
 - macOS Catalina 10.15.x (Replace `config.plist` with `config.Catalina.plist`)
 
@@ -85,7 +86,7 @@ BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.6](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
