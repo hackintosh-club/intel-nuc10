@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#VERSION</key>
-	<string>0.8.5</string>
+	<string>0.8.6</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
