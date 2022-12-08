@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -27,13 +27,13 @@
 
 **最新版本（0055以后）升级后会导致 `CFGLock.efi` 失效!!!** 
 
-**怎样升级到最新版本 `0058`** 
+**怎样升级到最新版本 `0059`** 
 1. 在0055版本上解锁 `CFGLock`, 保证 `CFG Lock` 值为 `0`
-2. 升级BIOS至最新版本 `0058`
+2. 升级BIOS至最新版本 `0059`
 3. 进入 `CFGLock` , 查看 `CFG Lock` 值是否为 `0`, 为 `0` 则可以正常使用.
 
 
-BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
+BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
 
 + Advanced
   - Storage
@@ -85,8 +85,8 @@ BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.7.6](https://github.com/acidanthera/AppleALC)
+- [WhateverGreen.kext 1.6.2](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext 1.7.7](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
@@ -94,6 +94,7 @@ BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
 - [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothFirmware.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
 
 ### 工具
 
@@ -104,6 +105,12 @@ BIOS version **FNCML357.0058(CFG Unlocked under 0055)**
 - [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
+
+
+### 驱动
+
+- [HDMI 固件更新工具](https://www.intel.cn/content/www/cn/zh/download/19639/intel-hdmi-firmware-update-tool-for-intel-nuc10i3fn-nuc10i5fn-nuc10i7fn-products.html)
+- [Thunderbolt™ 3固件更新工具](https://www.intel.cn/content/www/cn/zh/download/19794/thunderbolt-3-firmware-update-tool-for-nuc10ixfn.html)
 
 
 ### 技术交流
