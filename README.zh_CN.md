@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -19,8 +19,6 @@
 
 - macOS Ventura 13.x (Default `config.plist`)
 - macOS Monterey 12.x (Replace `config.plist` with `config.Monterey.plist`)
-- macOS Big Sur 11.6.x (Replace `config.plist` with `config.BigSur.plist`)
-- macOS Catalina 10.15.x (Replace `config.plist` with `config.Catalina.plist`)
 
 
 ### BIOS 设置
@@ -75,18 +73,19 @@ BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
 
 
 ### 已知问题
+
 - 雷电3设备支持较不稳定。
 - Airdrop 无效。
 
 
 ### Kexts
 
-- [Lilu.kext 1.6.2](https://github.com/acidanthera/Lilu)
+- [Lilu.kext 1.6.3](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.2](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.7.7](https://github.com/acidanthera/AppleALC)
+- [WhateverGreen.kext 1.6.3](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext 1.7.8](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.1.0](https://github.com/OpenIntelWireless/itlwm)
