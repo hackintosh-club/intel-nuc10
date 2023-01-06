@@ -17,8 +17,8 @@
 
 ### OS Version Tested
 
-- macOS Ventura 13.x (直接使用 `config.plist`)
-- macOS Monterey 12.x (使用 `config.Monterey.plist` 文件并重命名为 `config.plist`)
+- macOS Ventura 13.x (Default `config.plist`)
+- macOS Monterey 12.x (Replace `config.plist` with `config.Monterey.plist`)
 
 
 ### BIOS config
@@ -26,9 +26,10 @@
 **The latest version (after 0055) will make CFGLock.efi unable to work!!!**
 
 **How to update BIOS to the latest version `0059` ?** 
-1. Unlock CFG with `CFGLock` tool under BIOS `0055`, make sure the value of `CFG Lock` is `0`
-2. Update BIOS to the latest verion `0059`
-3. Enter `CFGLock`, Check whether the `CFG Lock` value is `0`, if it is, then you made it.
+1. Unlock CFG with `CFGLock` tool under BIOS `0055`, make sure the value of `CFG Lock` is `0` 
+2. Update BIOS to the latest verion `0059` 
+3. Enter `CFGLock`, Check whether the `CFG Lock` value is `0`, if it is, then you made it. 
+
 
 BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
 
