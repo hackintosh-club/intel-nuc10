@@ -17,8 +17,8 @@
 
 ### OS Version Tested
 
-- macOS Ventura 13.x (Default `config.plist`)
-- macOS Monterey 12.x (Replace `config.plist` with `config.Monterey.plist`)
+- macOS Ventura 13.x (直接使用 `config.plist`)
+- macOS Monterey 12.x (使用 `config.Monterey.plist` 文件并重命名为 `config.plist`)
 
 
 ### BIOS config
