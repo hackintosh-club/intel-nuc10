@@ -4,8 +4,10 @@
 <dict>
 	<key>#DEVICE</key>
 	<string>Intel-NUC10</string>
+	<key>#GITHUB</key>
+	<string>https://github.com/hackintosh-efi/intel-nuc10</string>
 	<key>#VERSION</key>
-	<string>0.8.8</string>
+	<string>0.8.9</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -352,24 +354,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelMausi</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>NVMeFix.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/NVMeFix</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
