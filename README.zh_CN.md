@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -85,11 +85,11 @@ BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
 - [SMCSuperIO.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.7.9](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.2.0-alpha](https://github.com/OpenIntelWireless/itlwm)
-- [BlueToolFixup.kext 2.6.4](https://github.com/acidanthera/BrcmPatchRAM)
+- [BlueToolFixup.kext 2.6.5](https://github.com/acidanthera/BrcmPatchRAM)
 - [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothFirmware.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [IntelBluetoothInjector.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
