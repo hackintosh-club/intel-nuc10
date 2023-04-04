@@ -98,6 +98,7 @@ BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
 ### 工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 即 `OCAT`.
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
 - [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。
