@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Adapted
@@ -31,7 +31,7 @@
 3. Enter `CFGLock`, Check whether the `CFG Lock` value is `0`, if it is, then you made it. 
 
 
-BIOS version **FNCML357.0059(CFG Unlocked under 0055)**
+BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 + Advanced
   - Storage
@@ -77,19 +77,18 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ### Kexts
 
-- [Lilu.kext 1.6.6](https://github.com/acidanthera/Lilu)
+- [Lilu.kext 1.6.7](https://github.com/acidanthera/Lilu)
 - [SMCProcessor.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.5](https://github.com/acidanthera/WhateverGreen)
-- [AppleALC.kext 1.8.3](https://github.com/acidanthera/AppleALC)
+- [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext 1.8.4](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AirportItlwm.kext 2.2.0](https://github.com/OpenIntelWireless/itlwm)
-- [BlueToolFixup.kext 2.6.7](https://github.com/acidanthera/BrcmPatchRAM)
-- [IntelBTPatcher.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [IntelBluetoothFirmware.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [IntelBluetoothInjector.kext 2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [BlueToolFixup.kext 2.6.8](https://github.com/acidanthera/BrcmPatchRAM)
+- [IntelBTPatcher.kext 2.3.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [IntelBluetoothFirmware.kext 2.3.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [IntelBluetoothInjector.kext 2.3.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
 
 ### Tools
