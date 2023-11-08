@@ -126,6 +126,8 @@
 				<true/>
 				<key>EnableWriteUnprotector</key>
 				<false/>
+				<key>FixupAppleEfiImages</key>
+				<false/>
 				<key>ForceBooterSignature</key>
 				<false/>
 				<key>ForceExitBootServices</key>
@@ -308,7 +310,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.8.5</string>
+					<string>V1.8.7</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
@@ -403,6 +405,24 @@
 					<true/>
 					<key>ExecutablePath</key>
 					<string>Contents/MacOS/IntelBTPatcher</string>
+					<key>MaxKernel</key>
+					<string></string>
+					<key>MinKernel</key>
+					<string></string>
+					<key>PlistPath</key>
+					<string>Contents/Info.plist</string>
+				</dict>
+				<dict>
+					<key>Arch</key>
+					<string>Any</string>
+					<key>BundlePath</key>
+					<string>AirportItlwm.Sonoma.kext</string>
+					<key>Comment</key>
+					<string>V2.3.0</string>
+					<key>Enabled</key>
+					<true/>
+					<key>ExecutablePath</key>
+					<string>Contents/MacOS/AirportItlwm</string>
 					<key>MaxKernel</key>
 					<string></string>
 					<key>MinKernel</key>

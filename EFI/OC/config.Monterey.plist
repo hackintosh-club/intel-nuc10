@@ -126,6 +126,8 @@
 				<true/>
 				<key>EnableWriteUnprotector</key>
 				<true/>
+				<key>FixupAppleEfiImages</key>
+				<false/>
 				<key>ForceBooterSignature</key>
 				<false/>
 				<key>ForceExitBootServices</key>
@@ -308,7 +310,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.8.5</string>
+					<string>V1.8.7</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
