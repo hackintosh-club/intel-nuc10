@@ -310,7 +310,7 @@
 					<key>BundlePath</key>
 					<string>AppleALC.kext</string>
 					<key>Comment</key>
-					<string>V1.8.7</string>
+					<string>V1.8.8</string>
 					<key>Enabled</key>
 					<true/>
 					<key>ExecutablePath</key>
