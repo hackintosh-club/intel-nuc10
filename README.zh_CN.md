@@ -109,8 +109,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 ### 驱动
 
-- [HDMI 固件更新工具](https://www.intel.cn/content/www/cn/zh/download/19639/intel-hdmi-firmware-update-tool-for-intel-nuc10i3fn-nuc10i5fn-nuc10i7fn-products.html)
-- [Thunderbolt™ 3固件更新工具](https://www.intel.cn/content/www/cn/zh/download/19794/thunderbolt-3-firmware-update-tool-for-nuc10ixfn.html)
+- [BIOS & 固件](https://www.asus.com.cn/supportonly/nuc10i7fnh/helpdesk_bios/) 
 
 
 ### 技术交流

@@ -106,8 +106,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ### Drive
 
-- [HDMI Firmware Update Tool](https://www.intel.com/content/www/us/en/download/19639/intel-hdmi-firmware-update-tool-for-intel-nuc10i3fn-nuc10i5fn-nuc10i7fn-products.html)
-- [Thunderbolt™ 3 Firmware Update Tool](https://www.intel.com/content/www/us/en/download/19794/thunderbolt-3-firmware-update-tool-for-nuc10ixfn.html)
+- [BIOS & Firmware](https://www.asus.com.cn/supportonly/nuc10i7fnh/helpdesk_bios/) 
 
 
 ### Discuss
