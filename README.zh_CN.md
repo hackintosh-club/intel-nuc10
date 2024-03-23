@@ -87,6 +87,10 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 ![Info](Screenshot/info.jpg)
 
+![Thunderbolt3](Screenshot/thunderbolt3.jpg)
+
+![Geekbench6](Screenshot/geekbench6.jpg)
+
 
 ### Kexts
 

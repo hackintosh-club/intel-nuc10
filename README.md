@@ -84,6 +84,10 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ![Info](Screenshot/info.jpg)
 
+![Thunderbolt3](Screenshot/thunderbolt3.jpg)
+
+![Geekbench6](Screenshot/geekbench6.jpg)
+
 
 ### Kexts
 
