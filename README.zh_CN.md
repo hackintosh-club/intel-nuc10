@@ -41,7 +41,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
     * SATA Mode Selection -> AHCI
   - Video
     * IGD Minimum Memory -> 64MB
-    * IGD Aperture Size -> 256MB
+    * IGD Aperture Size -> 512MB
     * IGD Primary Video Port -> Auto
 + Boot 
   - Secure Boot
@@ -85,7 +85,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 ![macOS](Screenshot/about.jpg)
 
-![Info](Screenshot/info.png)
+![Info](Screenshot/info.jpg)
 
 
 ### Kexts
