@@ -17,9 +17,11 @@
 
 ### OS Version Tested
 
-- macOS Ventura 13.x (Default `config.plist`)
-- macOS Sonoma 14.x (Replace `config.plist` with `config.Sonoma.plist`)
-- macOS Monterey 12.x (Replace `config.plist` with `config.Monterey.plist`)
+- macOS Sonoma 14.x 
+- macOS Ventura 13.x
+- macOS Monterey 12.x
+- macOS BigSur 11.x
+- macOS Catalina 10.15.x
 
 
 ### BIOS config
@@ -74,6 +76,13 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 - Thunderbolt 3 Support very buggy
 - Continuity features not work(EXCEPT HandOff and Universal Clipboard).
+
+
+### Screenshot
+
+![macOS](Screenshot/about.jpg)
+
+![Info](Screenshot/info.png)
 
 
 ### Kexts

@@ -17,9 +17,11 @@
 
 ### 可安装系统
 
-- macOS Ventura 13.x (直接使用 `config.plist`)
-- macOS Sonoma 14.x (使用 `config.Sonoma.plist` 文件并重命名为 `config.plist`)
-- macOS Monterey 12.x (使用 `config.Monterey.plist` 文件并重命名为 `config.plist`)
+- macOS Sonoma 14.x 
+- macOS Ventura 13.x
+- macOS Monterey 12.x
+- macOS BigSur 11.x
+- macOS Catalina 10.15.x
 
 
 ### BIOS 设置
@@ -77,6 +79,13 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 - 雷电3设备支持较不稳定。
 - Airdrop 无效。
+
+
+### 系统截图
+
+![macOS](Screenshot/about.jpg)
+
+![Info](Screenshot/info.png)
 
 
 ### Kexts
