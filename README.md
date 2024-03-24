@@ -42,7 +42,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
   - Video
     * IGD Minimum Memory -> 64MB
     * IGD Aperture Size -> 512MB
-    * IGD Primary Video Port -> `Thunderbolt` OR `HDMI` (Depends on your default monitor)
+    * IGD Primary Video Port -> `Thunderbolt` or `HDMI` (Depends on your default monitor)
     * IGD Secondary Video Port -> None
 + Boot 
   - Secure Boot
