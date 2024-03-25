@@ -126,6 +126,11 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 - [BIOS & 固件](https://www.asus.com.cn/supportonly/nuc10i7fnh/helpdesk_bios/) 
 
 
+### OC 主题
+
+[BsxM1](https://github.com/blackosx/BsxM1)
+
+
 ### 技术交流
 
 QQ群: 591528332

@@ -123,6 +123,11 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 - [BIOS & Firmware](https://www.asus.com.cn/supportonly/nuc10i7fnh/helpdesk_bios/) 
 
 
+### OC Theme
+
+[BsxM1](https://github.com/blackosx/BsxM1)
+
+
 ### Discuss
 
 QQ Group: 591528332
