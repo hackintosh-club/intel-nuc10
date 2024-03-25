@@ -75,7 +75,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 ### Known issue
 
-- Thunderbolt 3 Support very buggy
+- Thunderbolt 3 device does not support hot swap.
 - Continuity features not work(EXCEPT HandOff and Universal Clipboard).
 
 

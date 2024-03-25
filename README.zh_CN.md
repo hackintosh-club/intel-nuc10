@@ -78,7 +78,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 
 ### 已知问题
 
-- 雷电3设备支持较不稳定。
+- 雷电3设备不支持热插拔。
 - Airdrop 无效。
 
 
