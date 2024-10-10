@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 适配机型
@@ -17,6 +17,7 @@
 
 ### 可安装系统
 
+- macOS Sequoia 15.x  **(WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)**
 - macOS Sonoma 14.x 
 - macOS Ventura 13.x
 - macOS Monterey 12.x
