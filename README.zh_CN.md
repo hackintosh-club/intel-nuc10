@@ -17,7 +17,7 @@
 
 ### 可安装系统
 
-- macOS Sequoia 15.x  **(WiFi Need [OCLP](releases/tag/oclp) Patch)**
+- macOS Sequoia 15.x  **(WiFi Need [OCLP](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) Patch)**
 - macOS Sonoma 14.x 
 - macOS Ventura 13.x
 - macOS Monterey 12.x
