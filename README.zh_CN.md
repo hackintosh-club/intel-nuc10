@@ -17,7 +17,7 @@
 
 ### 可安装系统
 
-- macOS Sequoia 15.x  **(WiFi Need [OCLP](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) Patch)**
+- macOS Sequoia 15.x  **(WiFi 需使用 [OCLP-Mod by laobamac](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) 打入驱动补丁)**
 - macOS Sonoma 14.x 
 - macOS Ventura 13.x
 - macOS Monterey 12.x
@@ -55,7 +55,7 @@ BIOS version **FNCML357.0061(CFG Unlocked under 0055)**
 + Power
   - Secondary Power Settings
     * Deep S4/S5 -> On
-    * Wake on Lan from S4/S5 -> Stay Off
+    * Wake on Lan from S4/S5 -> Power On - Normal Boot
     * Wake System from S5 -> Off
     * Wake From Thunderbolt Device -> Off
 
